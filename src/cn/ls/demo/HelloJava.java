@@ -10,6 +10,8 @@ public class HelloJava {
 		other();
 		
 		System.out.println("´úÂë¸Ä¶¯");  
+		
+		System.out.println("xxxxxxxxxxxxxxxxxxxxxxxxxxx");  
 	}
 	private static void other() {
 
