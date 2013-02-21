@@ -6,5 +6,10 @@ public class HelloJava {
 		System.out.println("hello  java");
 		
 		System.out.println("thanks");  
+		
+		other();
+	}
+	private static void other() {
+
 	}
 }
